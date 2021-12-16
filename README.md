@@ -1,8 +1,8 @@
-# CSCI1230 Final Project: Fractal Generation
+# CSCI1230 Final Project: Raymarching with Fractals
 
 Team: No Preference
 
-Members: Nathan Plano, Nick Huang, Richard Tang (rtang26)
+Members: Nathan Plano, Nick Huang, Richard Tang
 
 In this project, we created a CPU Raymarching engine to render
 interesting scenes like Mandelbulbs (3D fractals), fractal trees, and
